@@ -17,3 +17,4 @@ import  shutil
 
 shutil.copyfile('data.db', 'archive.db')  #拷贝文档
 shutil.move('/build/executables', 'installdir')  #移动文档
+
